@@ -1,3 +1,3 @@
 # bm_bln
 
-https://vizsim.github.io/bln_bm/bm_bln_dash_v01.html
+https://vizsim.github.io/bm_bln/bm_bln_dash_v01.html
